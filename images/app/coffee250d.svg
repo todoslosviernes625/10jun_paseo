@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Gravit.io -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="isolation:isolate"
+   viewBox="0 0 400 400"
+   width="400"
+   height="400"
+   version="1.1"
+   id="svg3213"
+   sodipodi:docname="coffee230d.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata3217">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview3215"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.18"
+     inkscape:cx="55.508475"
+     inkscape:cy="200"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3213" />
+  <defs
+     id="defs3199">
+    <clipPath
+       id="_clipPath_whS1vxJkAmnJ0R4z0DOVV12kMkFTmKLR">
+      <rect
+         width="200"
+         height="200"
+         id="rect3196"
+         x="0"
+         y="0" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#_clipPath_whS1vxJkAmnJ0R4z0DOVV12kMkFTmKLR)"
+     id="g3211"
+     transform="scale(2)"
+     style="stroke-width:0.5">
+    <rect
+       x="0"
+       y="0"
+       width="200"
+       height="200"
+       id="rect3201"
+       style="fill:#f0f0f0;stroke-width:0.5" />
+    <g
+       id="scene"
+       style="stroke-width:0.5">
+      <g
+         id="step1"
+         style="stroke-width:0.5">
+        <path
+           d="m 40,100 c 0,-33.115 26.885,-60 60,-60 33.115,0 60,26.885 60,60 0,33.115 -26.885,60 -60,60 -33.115,0 -60,-26.885 -60,-60 z"
+           id="path3203"
+           inkscape:connector-curvature="0"
+           style="fill:#e74c3c;stroke-width:0.5" />
+        <g
+           transform="translate(88.164,62.578)"
+           id="g3207"
+           style="stroke-width:0.5">
+          <text
+             transform="translate(0,37.422)"
+             style="font-style:normal;font-weight:700;font-size:40px;font-family:'Arial Narrow';fill:#ffffff;stroke:none;stroke-width:0.5"
+             id="text3205">A</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

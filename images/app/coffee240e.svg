@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg815"
+   sodipodi:docname="svg_coffee013e.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   x="0px"
+   y="0px"
+   width="400px"
+   height="400px"
+   viewBox="0 0 400 38.75"
+   enable-background="new 0 0 400 38.75"
+   xml:space="preserve"><metadata
+   id="metadata254"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs252" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
+   id="namedview250"
+   showgrid="false"
+   inkscape:zoom="0.81190265"
+   inkscape:cx="-51.525966"
+   inkscape:cy="159.32203"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg815" />
+	 
+  <!-- Fondo y Estilo -->
+  <rect
+   width="400"
+   height="400"
+   id="rect210"
+   x="0"
+   y="-180.625"
+   style="fill:#b3b3b3;stroke-width:2" />
+  <style
+   id="style212">
+    .figura { stroke: black; stroke-width: 2; }
+    .letra { font-family: Arial; font-size: 40px; font-weight: bold; text-anchor: middle; dominant-baseline: middle; fill: white; }
+    .instruccion { font-family: Arial; font-size: 10px; text-anchor: middle; fill: #555; }
+  </style>
+
+  <!-- Grupo contenedor de la animación para interactividad -->
+  <g
+   id="escenaContainer"
+   cursor="pointer"
+   transform="translate(105.92403,-120.70413)">
+    
+    <!-- Definición de las 6 escenas con letras, figuras y colores -->
+    <g
+   id="escena1"
+   style="opacity:0">
+      <circle
+   cx="100"
+   cy="100"
+   r="50"
+   class="figura"
+   id="circle214"
+   style="fill:#ff5733;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="100"
+   class="letra"
+   id="text216"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">A</text>
+
+
+    </g>
+    
+    <g
+   id="escena2"
+   style="opacity:0">
+      <rect
+   x="50"
+   y="50"
+   width="100"
+   height="100"
+   class="figura"
+   id="rect219"
+   style="fill:#33ff57;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="100"
+   class="letra"
+   id="text221"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">B</text>
+
+
+    </g>
+    
+    <g
+   id="escena3"
+   style="opacity:0">
+      <polygon
+   points="160,140 40,140 100,30 "
+   class="figura"
+   id="polygon224"
+   style="fill:#3357ff;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="110"
+   class="letra"
+   id="text226"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">C</text>
+
+
+    </g>
+    
+    <g
+   id="escena4"
+   style="opacity:0">
+      <rect
+   x="40"
+   y="60"
+   width="120"
+   height="80"
+   class="figura"
+   id="rect229"
+   style="fill:#ff33a1;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="100"
+   class="letra"
+   id="text231"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">D</text>
+
+
+    </g>
+    
+    <g
+   id="escena5"
+   style="opacity:0">
+      <polygon
+   points="140,100 100,160 60,100 100,40 "
+   class="figura"
+   id="polygon234"
+   style="fill:#f3ff33;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="100"
+   class="letra"
+   id="text236"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">E</text>
+
+
+    </g>
+    
+    <g
+   id="escena6"
+   style="opacity:0">
+      <ellipse
+   cx="100"
+   cy="100"
+   rx="60"
+   ry="40"
+   class="figura"
+   id="ellipse239"
+   style="fill:#33fff3;stroke:#000000;stroke-width:2" />
+      <text
+   x="100"
+   y="100"
+   class="letra"
+   id="text241"
+   style="font-weight:bold;font-size:40px;font-family:Arial;dominant-baseline:middle;text-anchor:middle;fill:#ffffff">F</text>
+
+
+    </g>
+
+    <!-- Instrucción -->
+    <text
+   x="100"
+   y="185"
+   class="instruccion"
+   id="text244"
+   style="font-size:10px;font-family:Arial;text-anchor:middle;fill:#555555">Haz clic para pausar/reanudar</text>
+
+
+
+    <!-- Lógica de Animación (Duración total: 12s, 2s por escena) -->
+    <animate
+   id="anim1"
+   attributeName="opacity"
+   values="0;1;1;0;0;0;0;0;0;0;0;0"
+   dur="12s"
+   begin="0s;anim6.end"
+   fill="freeze" />
+    <animate
+   id="anim2"
+   attributeName="opacity"
+   values="0;0;0;1;1;0;0;0;0;0;0;0"
+   dur="12s"
+   begin="anim1.begin + 2s"
+   fill="freeze" />
+    <animate
+   id="anim3"
+   attributeName="opacity"
+   values="0;0;0;0;0;1;1;0;0;0;0;0"
+   dur="12s"
+   begin="anim1.begin + 4s"
+   fill="freeze" />
+    <animate
+   id="anim4"
+   attributeName="opacity"
+   values="0;0;0;0;0;0;0;1;1;0;0;0"
+   dur="12s"
+   begin="anim1.begin + 6s"
+   fill="freeze" />
+    <animate
+   id="anim5"
+   attributeName="opacity"
+   values="0;0;0;0;0;0;0;0;0;1;1;0"
+   dur="12s"
+   begin="anim1.begin + 8s"
+   fill="freeze" />
+    <animate
+   id="anim6"
+   attributeName="opacity"
+   values="0;0;0;0;0;0;0;0;0;0;0;1"
+   dur="12s"
+   begin="anim1.begin + 10s"
+   fill="freeze" />
+  </g>
+
+  <!-- Lógica de Click (Pausa/Reanuda) -->
+  <script
+   type="text/ecmascript"
+   id="script247">
+    <![CDATA[
+      var container = document.getElementById('escenaContainer');
+      var isPaused = false;
+      container.addEventListener('click', function() {
+        if (isPaused) {
+          container.unpauseAnimations();
+          isPaused = false;
+        } else {
+          container.pauseAnimations();
+          isPaused = true;
+        }
+      });
+    ]]>
+  </script>
+</svg>
