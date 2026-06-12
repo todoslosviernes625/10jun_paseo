@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg9"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="aeo_aereo.svg"
+   x="0px"
+   y="0px"
+   width="92.201px"
+   height="25.326px"
+   viewBox="0 0 92.201 25.326"
+   enable-background="new 0 0 92.201 25.326"
+   xml:space="preserve"><metadata
+   id="metadata3112"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3110" />
+<sodipodi:namedview
+   id="namedview11"
+   inkscape:cx="50.029445"
+   borderopacity="1"
+   inkscape:zoom="5.3737161"
+   inkscape:cy="-11.370328"
+   pagecolor="#ffffff"
+   showgrid="false"
+   bordercolor="#111111"
+   inkscape:window-maximized="1"
+   inkscape:pagecheckerboard="1"
+   inkscape:window-width="1920"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-height="1057"
+   inkscape:current-layer="svg9">
+	<inkscape:page
+   x="0"
+   width="552.47662"
+   y="0"
+   height="504.95132"
+   id="page15" />
+</sodipodi:namedview>
+
+<path
+   d="M 13.619141 0.5859375 A 11.984 11.984 0 0 0 1.6347656 12.570312 A 11.984 11.984 0 0 0 13.619141 24.554688 A 11.984 11.984 0 0 0 14.398438 24.525391 L 14.398438 24.535156 L 76.939453 24.535156 A 11.984 11.984 0 0 0 77.337891 24.554688 A 11.984 11.984 0 0 0 77.902344 24.535156 L 78.146484 24.535156 L 78.146484 24.527344 A 11.984 11.984 0 0 0 89.320312 12.570312 A 11.984 11.984 0 0 0 78.146484 0.62695312 L 78.146484 0.58789062 L 77.337891 0.58789062 L 14.398438 0.58789062 L 14.398438 0.625 A 11.984 11.984 0 0 0 13.619141 0.5859375 z "
+   id="path13047"
+   style="fill:#37abc8;fill-opacity:1" />
+
+
+<circle
+   id="path13047_2_"
+   fill="#F9F7F7"
+   cx="77.337"
+   cy="12.571"
+   r="9.587" />
+<g
+   enable-background="new    "
+   id="g3104"
+   style="fill:#00ffff">
+	<text
+   transform="matrix(1 0 0 1 12.0474 17.5293)"
+   fill="#61A372"
+   font-family="'Bahnschrift'"
+   font-size="14"
+   id="text3102"
+   style="fill:#00ffff">AEREO</text>
+
+</g>
+
+
+</svg>

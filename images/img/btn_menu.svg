@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg9" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="btn1.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="38.418px"
+	 height="25.326px" viewBox="74.259 0 38.418 25.326" enable-background="new 74.259 0 38.418 25.326" xml:space="preserve">
+<sodipodi:namedview  id="namedview11" inkscape:cx="-0.019405042" borderopacity="1" inkscape:zoom="1.3192231" inkscape:cy="-164.53891" pagecolor="#ffffff" showgrid="false" bordercolor="#111111" inkscape:window-maximized="1" inkscape:pagecheckerboard="1" inkscape:window-width="1920" inkscape:showpageshadow="0" inkscape:pageopacity="0" inkscape:deskcolor="#d1d1d1" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:window-height="1057" inkscape:current-layer="g17">
+	<inkscape:page  x="0" width="552.47662" y="0" height="504.95132" id="page15"></inkscape:page>
+</sodipodi:namedview>
+<g id="g17" transform="matrix(1.3333333,0,0,-1.3333333,-138.36684,1585.994)" inkscape:groupmode="layer" inkscape:label="Page 1">
+	<circle id="path13047" fill="#FF3300" cx="169.609" cy="1180.068" r="8.988"/>
+</g>
+<rect x="87.353" y="0.588" fill="#FF3300" width="12.515" height="23.947"/>
+<circle id="path13047_1_" fill="#FF3300" cx="99.336" cy="12.571" r="11.984"/>
+<circle id="path13047_2_" fill="#F9F7F7" stroke="#F7F9F9" stroke-miterlimit="10" cx="99.336" cy="12.57" r="9.208"/>
+<g>
+	<g>
+		<path fill="#FF3300" d="M104.911,9.841H93.754c-0.78,0-1.412-0.631-1.412-1.411c0-0.78,0.632-1.412,1.412-1.412h11.156
+			c0.779,0,1.411,0.632,1.411,1.412C106.322,9.209,105.69,9.841,104.911,9.841z"/>
+	</g>
+	<g>
+		<path fill="#FF3300" d="M104.911,14.077H93.754c-0.78,0-1.412-0.633-1.412-1.411c0-0.779,0.632-1.411,1.412-1.411h11.156
+			c0.779,0,1.411,0.632,1.411,1.411C106.322,13.444,105.69,14.077,104.911,14.077z"/>
+	</g>
+	<g>
+		<path fill="#FF3300" d="M104.92,18.104H93.765c-0.779,0-1.411-0.633-1.411-1.412c0-0.778,0.632-1.41,1.411-1.41h11.155
+			c0.779,0,1.412,0.632,1.412,1.41C106.333,17.472,105.7,18.104,104.92,18.104z"/>
+	</g>
+</g>
+</svg>
